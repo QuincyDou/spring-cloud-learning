@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.quincy.cloud</groupId>
-	<artifactId>service-hello</artifactId>
+	<artifactId>service-miya</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>service-hello</name>
+	<name>service-miya</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
